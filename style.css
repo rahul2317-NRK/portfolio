@@ -307,10 +307,14 @@ nav .fa-solid{
 		margin-rignt: 5px;
 	}
 	.robo{
+		margin: 0 5px;
 		padding-right: 5px; 
 	}
-	
-	
+	.service-list
+	{
+		margin-bottom: 20px;
+	}
+		
 	
 /*-------------------------------Contact--------------*/
 	
