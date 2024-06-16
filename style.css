@@ -226,11 +226,15 @@ form.btn2{
 nav .fa-solid{
 	display: none;
 }
-
+@media all and (max-width: 499px) {
+    #header {
+        background-image: url(Remove background project.png)
+    }
+}
 @media only screen and (max-width:600px){
 	#header{
 	justify-content: space-between;
-		background-image: url("Remove background project.png");
+		
 		background-size: 200px;
 	}
 	.header-text{
