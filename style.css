@@ -228,6 +228,9 @@ nav .fa-solid{
 	    background-position: right;
 		background-size: 200px;
 	}
+	.container{
+		padding: 5px 10%;
+	}
 	.header-text{
 		margin-top: 70%;
 		font-size: 15px;
