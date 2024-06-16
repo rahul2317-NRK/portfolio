@@ -233,13 +233,13 @@ nav .fa-solid{
 	#header{
 	justify-content: space-between;
 		background-image: url("Remove background project.png");
-		background-size: 200px;
+		background-size: 300px;
 		background-poistion: left;
 		height: 85vh;
 		width: 100%;
 	}
 	.header-text{
-		margin-top: 83%;
+		margin-top: 90%;
 		
 		font-size: 15px;
 	}
