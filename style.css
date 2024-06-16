@@ -106,7 +106,7 @@ flex-basis: 40%;
 	display: flex;
 	margin: 20px 0 40px;
 }
-.tab-titles{
+.tab-titles p{
 	font-size: 40px;
 }
 .tab-links{
@@ -144,7 +144,7 @@ flex-basis: 40%;
 }
 .service-list{
 	display: flex;
-	margin: 20px 0 40px 0;
+	margin: 5px 0 40px 0;
 }
 .robo {
 	font-size: 30px;
@@ -302,12 +302,12 @@ nav .fa-solid{
 	}
 /*--------------------------------Skills----------------*/
 	.robo li{
-		padding: 0 15px 0 0;
-	}
-	.robo{
+		padding: 20px 15px 20 0;
 		font-size: 20px;
-
 	}
+	
+
+	
 /*-------------------------------Contact--------------*/
 	
 	.contact-left, .contact-right{
