@@ -302,8 +302,9 @@ nav .fa-solid{
 	}
 /*--------------------------------Skills----------------*/
 	.robo li{
-		padding: 20px 5px;
+		padding: 20px 0;
 		font-size: 30px;
+		margin-rignt: 5px;
 	}
 	.robo{
 		padding-right: 5px; 
