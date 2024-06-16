@@ -144,7 +144,7 @@ flex-basis: 40%;
 	margin: 20px 0 40px;
 }
 .robo {
-	font-size: 40px;
+	font-size: 30px;
 
 }
 
@@ -234,7 +234,7 @@ nav .fa-solid{
 		width: 100%;
 	}
 	.header-text{
-		margin-top: 40%;
+		margin-top: 80%;
 		
 		font-size: 15px;
 	}
@@ -296,7 +296,7 @@ nav .fa-solid{
 		padding-top: 10px;
 	}
 /*--------------------------------Skills----------------*/
-	.robo{
+	.robo i{
 		padding-right: 20px;
 	}
 	.robo{
