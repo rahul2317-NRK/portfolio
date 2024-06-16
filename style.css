@@ -17,7 +17,7 @@ body{
 	background-position: center;
 }
 .container{
-	padding: 12px 10%;
+	padding: 10px 10%;
 }
 nav{
 	display: flex;
@@ -70,7 +70,7 @@ nav ul li a:hover::after{
 	font-size: 55px;
 }
 
-/*---------------------------------------------*/
+/*--------------------About-------------------------*/
 .row{
 	display: flex;
 	justify-content: space-between;
@@ -229,7 +229,7 @@ nav .fa-solid{
 		background-size: 200px;
 	}
 	.container{
-		padding: 5px 10%;
+		padding: 10px 10%;
 	}
 	.header-text{
 		margin-top: 70%;
