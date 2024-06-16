@@ -10,7 +10,7 @@ body{
 }
 #header{
 	width: 100%;
-	height: 80vh;
+	height: 100vh;
 	background-image: url("Remove background project.png");
 	background-size: 400px;
 	background-repeat: no-repeat;
@@ -229,6 +229,8 @@ nav .fa-solid{
 		background-image: url("Remove background project.png");
 		background-size: 200px;
 		background-position: right;
+		height: 70vh;
+		width: 100%;
 	}
 	.header-text{
 		margin-top: 80%;
