@@ -224,7 +224,7 @@ nav .fa-solid{
 @media only screen and (max-width:600px){
 	#header{
 	justify-content: space-between;
-		background-image: url(Remove background project.png)
+		background-image: url(Remove background project.png);
 	    background-position: right;
 		background-size: 200px;
 	}
