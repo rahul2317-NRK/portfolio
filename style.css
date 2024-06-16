@@ -70,7 +70,7 @@ nav ul li a:hover::after{
 	font-size: 55px;
 }
 
-/*----------------------skills-----------------------*/
+/*----------------------About-----------------------*/
 .row{
 	display: flex;
 	justify-content: space-between;
@@ -86,7 +86,7 @@ flex-basis: 40%;
 .about-col-2{
 	flex-basis: 50%;
 	margin-top: 60px;
-	padding: 20px;
+	padding: 12px;
 	font-style: "Forum", serif;
 	font-weight: 400;
 }
@@ -230,7 +230,7 @@ nav .fa-solid{
 		background-image: url("Remove background project.png");
 		background-size: 200px;
 		background-position: right;
-		height: 50vh;
+		height: 70vh;
 		width: 100%;
 	}
 	.header-text{
@@ -299,7 +299,7 @@ nav .fa-solid{
 	.robo{
 		padding-right: 20px;
 	}
-	.robo ul li{
+	.robo{
 		font-size: 20px;
 
 	}
