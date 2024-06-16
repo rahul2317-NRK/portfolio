@@ -223,6 +223,7 @@ nav .fa-solid{
 @media all and (min-width: 80px) {
     #header {
         background-image: url(Remove background project.png)
+	    background-position: right;
     }
 }
 @media only screen and (max-width:600px){
