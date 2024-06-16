@@ -139,8 +139,8 @@ flex-basis: 40%;
 	display: inline-block;
 	list-style: none;
         margin: 10px 20px;
-       color: #b54769;
-       padding: 40px;
+        color: #b54769;
+        padding: 40px 25px;
 }
 .service-list{
 	display: flex;
@@ -302,7 +302,7 @@ nav .fa-solid{
 	}
 /*--------------------------------Skills----------------*/
 	.robo li{
-		padding: 20px 15px 20 0;
+		padding: 20px 5px 20px 0;
 		font-size: 20px;
 	}
 	
