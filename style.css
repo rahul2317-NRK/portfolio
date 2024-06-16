@@ -17,7 +17,7 @@ body{
 	background-position: center;
 }
 .container{
-	padding: 10px 10%;
+	padding: 15px 10%;
 }
 nav{
 	display: flex;
@@ -26,7 +26,7 @@ nav{
 	flex-wrap: wrap;
 }
 .logo{
-	width: 120px;
+	width: 140px;
 }
 nav ul li{
 	display: inline-block;
@@ -70,14 +70,17 @@ nav ul li a:hover::after{
 	font-size: 55px;
 }
 
-/*---------------------------------------------*/
+/---------------------------------------------/
 
+.container1{
+	padding: 50px 10%;
+	font-family:'Open sans' sans-serif;
+}
 
 .row{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	padding: 10px 10%;
 }
 .about-col-1{
 flex-basis: 40%;
@@ -89,25 +92,17 @@ flex-basis: 40%;
 }
 .about-col-2{
 	flex-basis: 50%;
-	padding-top: 100px;
-	font-family: "PT Serif", serif;
-        font-weight: 500;
-        font-style: italic;
-
 }
 
 .sub-title{
 	font-size: 50px;
-	font-weight: 100;
+	font-weight: 600;
 	color: #fff;
-	font-family: "PT Serif", serif;
-        font-weight: 600;
-	padding-top: 30px;
 }
 .about-col-2 p{
 	font-size: 14px;
 	font-family: "PT Serif", serif;
-        font-weight: 400;
+  font-weight: 400;
   
 }
 .tab-titles{
@@ -138,7 +133,7 @@ flex-basis: 40%;
 .tab-contents{
 	padding-top: -15px;
 }
-/*------------------------------skills-------------*/
+/------------------------------skills-------------/
 
 .robo li{
 	display: inline-block;
@@ -156,7 +151,7 @@ flex-basis: 40%;
 
 }
 
-/*----------------------------contact-------------------*/
+/----------------------------contact-------------------/
 .contact-left{
 	flex-basis: 35%;
 
@@ -226,7 +221,7 @@ form.btn2{
 	font-weight: 300;
 	margin-top: 30px;
 }
-/*-----------------------------response-------------------*/
+/-----------------------------response-------------------/
 
 nav .fa-solid{
 	display: none;
@@ -237,11 +232,6 @@ nav .fa-solid{
 	justify-content: space-between;
 		background-image: url("Remove background project.png");
 		background-size: 200px;
-		background-position: right;
-
-	}
-	#About{
-		padding: -10px;
 	}
 	.header-text{
 		margin-top: 50%;
@@ -285,8 +275,6 @@ nav .fa-solid{
 	}
 	.sub-title{
 		font-size: 40px;
-		text-align: center;
-                padding-top: 20px;
 	}
 	.about-col-1, .about-col-2{
 		flex-basis: 100%;
@@ -296,15 +284,13 @@ nav .fa-solid{
 	}
 	.about-col-2{
 		font-size: 14px;
-		padding-top: 30px;
-
 	}
 	.robo i{
 		font-size: 25px;
 
 	}
 	.service-list ul li{
-		padding-right: 15px;
+		padding-right: 10px;
 	}
 	
 
