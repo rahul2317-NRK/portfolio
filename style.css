@@ -235,7 +235,7 @@ nav .fa-solid{
 	#header{
 	justify-content: space-between;
 		background-image: url("Remove background project.png");
-		background-size: 200px;
+		background-size: 100px;
 		background-position: right;
 
 	}
@@ -292,7 +292,7 @@ nav .fa-solid{
 	}
 	.about-col-2{
 		font-size: 14px;
-		padding-top: 10px;
+		padding-top: 30px;
 
 	}
 	.robo i{
