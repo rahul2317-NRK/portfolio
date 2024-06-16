@@ -145,6 +145,7 @@ flex-basis: 40%;
 }
 .robo {
 	font-size: 30px;
+	margin: 10px 20px;
 
 }
 
@@ -229,7 +230,7 @@ nav .fa-solid{
 	justify-content: space-between;
 		background-image: url("Remove background project.png");
 		background-size: 200px;
-		background-position: right;
+		
 		height: 70vh;
 		width: 100%;
 	}
@@ -296,7 +297,7 @@ nav .fa-solid{
 		padding-top: 10px;
 	}
 /*--------------------------------Skills----------------*/
-	.robo i{
+	.robo li{
 		padding-right: 20px;
 	}
 	.robo{
