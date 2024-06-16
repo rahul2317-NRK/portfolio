@@ -226,7 +226,7 @@ form.btn2{
 nav .fa-solid{
 	display: none;
 }
-@media all and (max-width: 350px) {
+@media all and (max-width: 200px) {
     #header {
         background-image: url(Remove background project.png)
     }
