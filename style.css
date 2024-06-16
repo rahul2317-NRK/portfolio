@@ -17,7 +17,7 @@ body{
 	background-position: center;
 }
 .container{
-	padding: 15px 10%;
+	padding: 25px 10%;
 }
 nav{
 	display: flex;
@@ -72,10 +72,7 @@ nav ul li a:hover::after{
 
 /*---------------------------------------------*/
 
-.container1{
-	padding: 50px 10%;
-	font-family:'Open sans' sans-serif;
-}
+
 
 .row{
 	display: flex;
@@ -92,6 +89,8 @@ flex-basis: 40%;
 }
 .about-col-2{
 	flex-basis: 50%;
+	padding-top: 30px;
+	font-family: 'Times New Roman', Serif;
 }
 
 .sub-title{
@@ -101,8 +100,9 @@ flex-basis: 40%;
 }
 .about-col-2 p{
 	font-size: 14px;
-	font-family: "PT Serif", serif;
+	font-family: "Times New Roman", serif;
   font-weight: 400;
+	
   
 }
 .tab-titles{
@@ -118,7 +118,7 @@ flex-basis: 40%;
 	font-weight: 50;
 	cursor: pointer;
 	position: relative;
-	color: #ffaa80;
+	color: #e4c8ad;
 }
 .tab-contents ul li{
 	list-style: none;
@@ -298,6 +298,9 @@ nav .fa-solid{
 	.tab-links{
 		font-size: 16px;
 		margin-right: 20px;
+	}
+	.tab-titles{
+		padding-top: 10px;
 	}
 	.contact-left, .contact-right{
 		flex-basis: 100%;
