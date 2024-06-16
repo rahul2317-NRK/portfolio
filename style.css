@@ -71,12 +71,6 @@ nav ul li a:hover::after{
 }
 
 /*---------------------------------------------*/
-
-.container1{
-	padding: 50px 10%;
-	font-family:'Open sans' sans-serif;
-}
-
 .row{
 	display: flex;
 	justify-content: space-between;
